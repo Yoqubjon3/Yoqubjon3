@@ -1,5 +1,2 @@
-#### 🏊‍♂️ Weekly Development Breakdown
-
-![light](https://raw.githubusercontent.com/tw93/tw93/master/images/wakatime_weekly_language_stats.svg#gh-light-mode-only)
-
-![dark](https://raw.githubusercontent.com/tw93/tw93/master/images/wakatime_weekly_language_stats_black.svg#gh-dark-mode-only)
+Hi, I'm [YoquB](https://www.rishit.tech) a high school student and an AI enthusiast from 
+[Mumbai, India](https://www.google.com/maps/place/Rishit+Dagli/@19.2115497,72.8411235,15z/data=!4m5!3m4!1s0x0:0xf3ed3bb225394f3c!8m2!3d19.2115497!4d72.8411235) :india:
