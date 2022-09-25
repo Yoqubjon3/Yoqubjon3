@@ -5,15 +5,10 @@
 - &nbsp;&nbsp;<img src="https://github.com/Yoqubjon3/Yoqubjon3/blob/main/image_gif/lightning.gif" width="20" />&nbsp;&nbsp;&nbsp;&nbsp;** Eat, Sleep, Code, Repeat**<br>
 
 ```dart
-// tools_I_use organized
-class About extends Me { 
-  const myTools = {  
-    "ProgramingLanguages" : { "Java", "Dart", "C++", "C", "Python", "Javascript" },
-    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
-    "Database" : { "Firebase", "Sqlite" },
-    "Editors" : { "Vscode", "Sublime", "Neovim" },
-    "Platforms" : { "GNU/Linux", "Windows" },
-    "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
-  };
+// tools_I_use
+const tools = () => {
+  const obj = {
+    ProgramingLanguages: "JavaScript, Python, C, Dart, Java,"
+  }
 }
 ```
