@@ -10,7 +10,7 @@
 // ? TOOLS-I-USE
 const tools = () => {
   const objTools = {
-    ProgramingLanguages: ["JavaScript", "Python", "NodeJs", "Dart", "C"],
+    ProgramingLanguages: ["JavaScript", "Python", "NodeJs", "C"],
     Frameworks: ["ReactJs", "TypeScript", "ExpressJs", "Redux-Redux Toolkit", "NextJs"],
     OtherLanguages: ["JSON", "HTML", "CSS-SASS"],
     Database: ["MongoDB", "Sqlite"],
@@ -27,17 +27,24 @@ objTools()
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
 
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![NodeJs](https://img.shields.io/badge/-NodeJs-yellowgreen)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![Json](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![ReactJs](https://img.shields.io/badge/-ReactJs-9cf)
+![TypeScript](https://img.shields.io/badge/-TypeScript-blueviolet)
+![NextJs](https://img.shields.io/badge/-NextJs-success)
+![ExpressJs](https://img.shields.io/badge/-ExpressJs-orange)
+![Redux](https://img.shields.io/badge/-Redux-blue)
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/-SASS-ff69b4)
+![MongoDB](https://img.shields.io/badge/-MongoDB-green)
+![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+![Json](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
 ![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/-Windows10-blue)
 ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/-WebStrom-crimson)
-![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-green)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
