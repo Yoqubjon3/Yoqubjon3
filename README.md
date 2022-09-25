@@ -8,16 +8,17 @@
 // ? TOOLS-I-USE
 const tools = () => {
   const objTools = {
-    ProgramingLanguages: ["JavaScript", "Python", "NodeJs", "C"],
-    Frameworks: ["ReactJs", "TypeScript", "ExpressJs", "Redux-Redux Toolkit", "NextJs"],
-    OtherLanguages: ["JSON", "HTML", "CSS-SASS"],
-    Database: ["MongoDB", "Sqlite"],
-    Editors: ["Visual Studio Code", "WebStorm"],
-    Platforms: ["Windows", "GNU/Linux"],
-    OtherTools: ["Figma", "Photoshop", "others:)"]
-  }
-}
-tools()
+      ProgramingLanguages: ["JavaScript", "Python", "NodeJs", "C"],
+      Frameworks: ["ReactJs", "TypeScript", "ExpressJs", "Redux-Redux Toolkit", "NextJs"],
+      OtherLanguages: ["JSON", "HTML", "CSS-SASS"],
+      Database: ["MongoDB", "Sqlite"],
+      Editors: ["Visual Studio Code", "WebStorm"],
+      Platforms: ["Windows", "GNU/Linux"],
+      OtherTools: ["Figma", "Photoshop", "others:)"]
+  };
+  console.log(objTools);
+};
+tools();
 ```
 
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
