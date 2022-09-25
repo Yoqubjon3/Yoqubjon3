@@ -7,12 +7,13 @@
 // tools_I_use
 const tools = () => {
   const objTools = {
-    ProgramingLanguages: "JavaScript", "Python", "C", "Dart", "Java", "C++",
-    OtherLanguages: "JSON", "HTML", "CSS-SASS",
-    Database: "MongoDB", "Sqlite",
-    Editors: "Visual Studio Code", "WebStorm",
-    Platforms: "Windows", "GNU/Linux",
-    OtherTools: "Figma", "Photoshop", "others:)"
+    ProgramingLanguages: ["JavaScript", "Python", "NodeJs", "Dart", "C"],
+    Frameworks: ["ReactJs", "TypeScript", "ExpressJs", "Redux-Redux Toolkit", "NextJs"],
+    OtherLanguages: ["JSON", "HTML", "CSS-SASS"],
+    Database: ["MongoDB", "Sqlite"],
+    Editors: ["Visual Studio Code", "WebStorm"],
+    Platforms: ["Windows", "GNU/Linux"],
+    OtherTools: ["Figma", "Photoshop", "others:)"]
   }
 }
 objTools()
