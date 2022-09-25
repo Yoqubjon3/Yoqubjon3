@@ -21,6 +21,7 @@ objTools()
 ```
 
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 ![NodeJs](https://img.shields.io/badge/-NodeJs-yellowgreen)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
