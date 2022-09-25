@@ -4,8 +4,6 @@
 - <img src="https://github.com/Yoqubjon3/Yoqubjon3/blob/main/image_gif/letterbox.gif" width="30" /> &nbsp; Find me on Portfolio: **[YoquB.3](https://www.google.com)**<br> <br>
 - &nbsp;&nbsp;<img src="https://github.com/Yoqubjon3/Yoqubjon3/blob/main/image_gif/lightning.gif" width="20" />&nbsp;&nbsp;&nbsp;&nbsp;** Eat, Sleep, Code, Repeat**<br>
 
-<hr></hr>
-
 ```dart
 // ? TOOLS-I-USE
 const tools = () => {
