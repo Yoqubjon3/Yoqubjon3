@@ -17,7 +17,7 @@ const tools = () => {
     OtherTools: ["Figma", "Photoshop", "others:)"]
   }
 }
-objTools()
+tools()
 ```
 
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
